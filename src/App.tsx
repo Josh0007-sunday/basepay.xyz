@@ -1,5 +1,4 @@
 import './App.css';
-import {  CheckCircle,  DollarSign, Zap, ChevronRight, Globe, Shield } from 'lucide-react';
 
 import usdcLogo from './assets/usd-coin-usdc-logo.png'
 import dashboardImg from './assets/dashboard.png';
